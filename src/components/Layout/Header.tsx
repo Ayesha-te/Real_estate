@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Menu, X, Home, Building2, TrendingUp, Phone, Info } from 'lucide-react';
 
 const Header = () => {

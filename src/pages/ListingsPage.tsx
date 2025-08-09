@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Filter, Grid, List, Map } from 'lucide-react';
 import FilterSidebar from '../components/Listings/FilterSidebar';
 import PropertyCard from '../components/Listings/PropertyCard';

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Star, TrendingUp, MapPin, Calendar, DollarSign } from 'lucide-react';
 
 const NewProjectsHighlight = () => {

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Users, Award, Target, TrendingUp, Shield, Star, Calendar, Building2 } from 'lucide-react';
 
 const AboutPage = () => {

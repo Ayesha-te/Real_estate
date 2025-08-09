@@ -1,4 +1,4 @@
-import React from 'react';
+
 import HeroSection from '../components/Home/HeroSection';
 import QuickSearch from '../components/Home/QuickSearch';
 import FeaturedProperties from '../components/Home/FeaturedProperties';

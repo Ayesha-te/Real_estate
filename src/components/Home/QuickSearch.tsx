@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Home, Building2, MapPin, Briefcase, Key, TrendingUp } from 'lucide-react';
 
 const QuickSearch = () => {

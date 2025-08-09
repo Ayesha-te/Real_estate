@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Search, MapPin, Home, Building, Calendar, DollarSign } from 'lucide-react';
 
 const HeroSection = () => {

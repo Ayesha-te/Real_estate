@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Shield, Star, Zap, Users, Award, TrendingUp } from 'lucide-react';
 
 const WhyChooseUs = () => {

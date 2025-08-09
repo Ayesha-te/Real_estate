@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { MapPin, Bed, Bath, Square, Heart } from 'lucide-react';
 
 const FeaturedProperties = () => {
